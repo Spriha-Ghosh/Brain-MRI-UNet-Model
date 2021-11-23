@@ -14,7 +14,7 @@ The biggest challenge faced in the process of brain tumor division both here and
 
 ## Industry Potential
 
-![Alt Text](https://media4.giphy.com/media/2bYewTk7K2No1NvcuK/200.gif)
+![Alt Text](https://scitechdaily.com/images/Human-Brain-Evolution.gif)
 
 As the healthcare system in the U.S. moves toward a value-based care model that emphasizes quality over quantity, preventative medicine is becoming more important. The new movement of active health surveillance through services such as whole-body MRIs is also looks to play a crucial role. 
 
