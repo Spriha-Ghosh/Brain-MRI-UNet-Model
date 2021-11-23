@@ -5,12 +5,16 @@ The biggest challenge faced in the process of brain tumor division both here and
 
 ## Our Approach
 ```diff
-- According to the shortcomings of the above algorithm in brain tumor image detection, in this paper, a brain tumor image segmentation algorithm based on improved U-Net network is - proposed, which realizes the training length, strong robustness, and accurately and completely divides the brain tumor image. By applying image recognition and deep learning - -  - techniques, U-Net network's brain tumor image segmentation algorithm can help doctors locate diseases, analyze conditions, assist in diagnosis, and improve their productivity --- without artificial intervention, which has significance clinical guiding for diagnosis and treatment.
+- According to the shortcomings of the above algorithm in brain tumor image detection, in this paper, a brain tumor image segmentation 
+- algorithm based on improved U-Net network is proposed, which realizes the training length, strong robustness, and accurately and
+- completely divides the brain tumor image. By applying image recognition and deep learning techniques, U-Net network's brain tumor
+- image segmentation algorithm can help doctors locate diseases, analyze conditions, assist in diagnosis, and improve their productivity withou
+- t artificial intervention, which has significance clinical guiding for diagnosis and treatment.
 ```
 
 ## Industry Potential
 
-![alt](https://media0.giphy.com/media/2bYewTk7K2No1NvcuK/200.gif)
+![Alt Text](https://media0.giphy.com/media/2bYewTk7K2No1NvcuK/200.gif)
 
 As the healthcare system in the U.S. moves toward a value-based care model that emphasizes quality over quantity, preventative medicine is becoming more important. The new movement of active health surveillance through services such as whole-body MRIs is also looks to play a crucial role. 
 
